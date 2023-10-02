@@ -1,0 +1,46 @@
+i {
+    width: 150px;
+    border: 10px solid rgb(217, 26, 137);
+    padding: 5px;
+}
+.pragraf1 {
+    position: relative;
+    top: 20px;
+}
+.pragraf2 {
+    position: relative;
+    top: 30PX;
+}
+.border1 {
+    position: relative;
+    top: 50PX;
+    width:200px ;
+    border: 3px solid rgb(121, 9, 88);
+    padding: 15px;
+    margin: 20px;
+    transform: rotate(9deg);
+}
+.border2 {
+    position: relative;
+    top: 60PX;
+    width:200px ;
+    border: 3px solid rgb(201, 20, 20);
+    padding: 15px;
+    margin: 20px;
+    transform: rotate(357deg);
+}
+
+.suami{
+    border: 5px solid gold;
+    transform: rotate(9deg);
+    margin: 10px;
+}
+
+.istri{
+    margin: 40px;
+    border: 5px solid gold;
+    transform: rotate(340deg);
+    width: 180px;
+}
+
+
